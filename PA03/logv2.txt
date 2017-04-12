@@ -1,0 +1,6198 @@
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Washington
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Las Vegas
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+
+Did not find path
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Washington
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Las Vegas
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+
+Did not find path
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Los Angeles to Houston
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Indianapolis 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+San Francisco 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Tampa 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Washington 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Cleveland to Chicago
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denton Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denver Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Chicago Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Indianapolis to San Francisco
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from San Francisco to Washington
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: Miami
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Atlanta Miami 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta Miami 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Boston to Columbia
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Atlanta Chicago 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
+Finding path from Miami to Denver
+
+Next City: Los Angeles
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Indianapolis
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Indianapolis Los Angeles 
+----------------------------------------
+
+Next City: San Francisco
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+San Francisco Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Tampa
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Tampa Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: Washington
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Washington Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Los Angeles 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Miami 
+----------------------------------------
+
+Next City: Atlanta
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Atlanta 
+----------------------------------------
+
+Next City: Chicago
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boise
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boise Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Boston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Boston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Chicago Atlanta 
+----------------------------------------
+
+Next City: Houston
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Glendale
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Glendale Houston Chicago 
+----------------------------------------
+
+Next City: Cleveland
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Cleveland Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Columbia
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Columbia Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Dallas
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Dallas Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denton
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denton Houston Chicago 
+----------------------------------------
+
+Next City: NO_CITY
+
+Cannot find unvisited city, popping cityStack...
+Current cityStack after popping (top of the stack is left most)
+
+----------------------------------------
+Houston Chicago 
+----------------------------------------
+
+Next City: Denver
+
+Found unvisited city, pushing onto stack
+Current cityStack after pushing (top of the stack is left most)
+
+----------------------------------------
+Denver Houston Chicago 
+----------------------------------------
+
+
+Found Path!
+
+++++++++++++++++++++++++++++++++++++++++
