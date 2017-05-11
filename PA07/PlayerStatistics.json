@@ -1,0 +1,78 @@
+[
+  {
+    "Player Name": "Me",
+    "Overview": {
+      "Games Won": 7,
+      "Win Rate": 46,
+      "Games Played": 15,
+      "Fastest Win": 56,
+      "Fewest Moves": 11,
+      "Top Score": 98
+    },
+    "Suits": 
+    [
+      {
+        "Type": "One Suit",
+        "Games Won": 0,
+        "Win Rate": 0,
+        "Games Played": 5,
+        "Fastest Win": 999,        "Fewest Moves": 999,        "Top Score": 12
+      },
+      {
+        "Type": "Two Suits",
+        "Games Won": 2,
+        "Win Rate": 40,
+        "Games Played": 5,
+        "Fastest Win": 65,
+        "Fewest Moves": 11,
+        "Top Score": 78
+      },
+      {
+        "Type": "Four Suits",
+        "Games Won": 5,
+        "Win Rate": 100,        "Games Played": 5,
+        "Fastest Win": 56,
+        "Fewest Moves": 67,
+        "Top Score": 98
+      }
+    ]
+  }, 
+  {
+	"Player Name": "You",
+    "Overview": 
+    {
+      "Games Won": 8,
+      "Win Rate": 53,
+      "Games Played": 15,
+      "Fastest Win": 30,
+      "Fewest Moves": 18,
+      "Top Score": 98
+    },
+    "Suits": 
+    [
+      {
+        "Type": "One Suit",
+        "Games Won": 5,
+        "Win Rate": 100,        "Games Played": 5,
+        "Fastest Win": 30,
+        "Fewest Moves": 18,
+        "Top Score": 78
+      },
+      {
+        "Type": "Two Suits",
+        "Games Won": 3,
+        "Win Rate": 60,
+        "Games Played": 5,
+        "Fastest Win": 45,
+        "Fewest Moves": 34,
+        "Top Score": 98
+      },
+      {
+        "Type": "Four Suits",
+        "Games Won": 0,
+        "Win Rate": 0,
+        "Games Played": 5,
+        "Fastest Win": 999,        "Fewest Moves": 999,        "Top Score": 86
+      }
+    ]
+}]
